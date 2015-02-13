@@ -16,7 +16,7 @@ body {
 }
 .Main {
     width:25%;
-    min-width:320px;
+    min-width:20rem;
     padding: 1em;
     text-align: center;
     margin:1rem auto 0 auto;
@@ -26,4 +26,13 @@ body {
 .Task {
     padding: .5em;
     text-align: center;
+}
+.loading{
+    width:25%;
+    min-width:20rem;
+    padding: 1em;
+    text-align: center;
+    margin:1rem auto 0 auto;
+    border:1px solid silveR;
+    background:silver;
 }
