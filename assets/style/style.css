@@ -19,7 +19,7 @@ body {
     min-width:320px;
     padding: 1em;
     text-align: center;
-    margin:0 auto;
+    margin:1rem auto 0 auto;
     border:1px solid silveR;
 }
 
