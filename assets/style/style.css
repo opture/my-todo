@@ -28,6 +28,7 @@ body {
     text-align: center;
 }
 .loading{
+    display:block;
     width:25%;
     min-width:20rem;
     padding: 1em;
